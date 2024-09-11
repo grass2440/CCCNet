@@ -1,6 +1,10 @@
 ![图片](https://github.com/user-attachments/assets/fdb36dd9-41ef-49a4-94ac-0459e69bf1b5)
 
+<div align="center">
 
+# CCCNet: Criss-Cross CLRNet for Lane Detection
+
+</div>
 
 This paper presents an enhanced model, called CCCNet, which incorporates an efficient global attention module, known as the Criss-Cross module, into the Feature Pyramid Network structure of the CLRNet.
 
