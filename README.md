@@ -30,11 +30,10 @@ git clone https://github.com/grass2440/CCCNet.git
 
 
 ### Create a conda virtual environment and activate it (conda is optional)
-
+```Shell
 conda create -n clrnet python=3.8 -y
-
 conda activate clrnet
-
+```
 
 
 ### Data preparation
