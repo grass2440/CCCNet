@@ -1,3 +1,7 @@
+![图片](https://github.com/user-attachments/assets/47b552e8-f39d-4fbb-9bdb-8e0401bfdbad)
+
+This paper presents an enhanced model, called CCCNet, which incorporates an efficient global attention module, known as the Criss-Cross module, into the Feature Pyramid Network structure of the CLRNet.
+
 Prerequisites
 
 The training and testing environment consists of the following specifications: 
@@ -19,7 +23,7 @@ Clone this repository
 
 Clone this code to your workspace. We call this directory as $CLRNET_ROOT
 
-git clone https://github.com/Turoad/clrnet
+git clone https://github.com/grass2440/CCCNet.git
 
 
 
