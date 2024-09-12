@@ -6,7 +6,7 @@
 
 </div>
 
-This paper presents an enhanced model, called CCCNet, which incorporates an efficient global attention module, known as the Criss-Cross module, into the Feature Pyramid Network structure of the CLRNet.
+This program presents an enhanced model, called CCCNet, which incorporates an efficient global attention module, known as the Criss-Cross module, into the Feature Pyramid Network structure of the CLRNet.
 
 ### Prerequisites
 
